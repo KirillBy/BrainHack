@@ -24,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BalancedBrackets\BalancedBrackets.csproj" />
     <ProjectReference Include="..\Palindrome Number\Palindrome Number.csproj" />
+    <ProjectReference Include="..\Roman to Integer\Roman to Integer.csproj" />
   </ItemGroup>
 
 </Project>
