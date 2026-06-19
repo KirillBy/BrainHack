@@ -25,6 +25,7 @@
     <ProjectReference Include="..\BalancedBrackets\BalancedBrackets.csproj" />
     <ProjectReference Include="..\Palindrome Number\Palindrome Number.csproj" />
     <ProjectReference Include="..\Roman to Integer\Roman to Integer.csproj" />
+    <ProjectReference Include="..\Sort Array By Parity\Sort Array By Parity.csproj" />
   </ItemGroup>
 
 </Project>

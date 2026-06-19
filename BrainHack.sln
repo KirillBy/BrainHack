@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "Palind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman to Integer", "Roman to Integer\Roman to Integer.csproj", "{53674C2F-91A4-4827-9625-2AA43C00EECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Array By Parity", "Sort Array By Parity\Sort Array By Parity.csproj", "{98480A68-602D-4873-AF57-33C0632F19AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{53674C2F-91A4-4827-9625-2AA43C00EECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53674C2F-91A4-4827-9625-2AA43C00EECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53674C2F-91A4-4827-9625-2AA43C00EECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98480A68-602D-4873-AF57-33C0632F19AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98480A68-602D-4873-AF57-33C0632F19AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98480A68-602D-4873-AF57-33C0632F19AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98480A68-602D-4873-AF57-33C0632F19AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
