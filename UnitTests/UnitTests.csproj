@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BalancedBrackets\BalancedBrackets.csproj" />
+    <ProjectReference Include="..\Palindrome Number\Palindrome Number.csproj" />
   </ItemGroup>
 
 </Project>
