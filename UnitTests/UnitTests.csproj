@@ -26,6 +26,7 @@
     <ProjectReference Include="..\Binary Search\Binary Search.csproj" />
     <ProjectReference Include="..\Palindrome Number\Palindrome Number.csproj" />
     <ProjectReference Include="..\Roman to Integer\Roman to Integer.csproj" />
+    <ProjectReference Include="..\SelectionSort\SelectionSort.csproj" />
     <ProjectReference Include="..\Sort Array By Parity\Sort Array By Parity.csproj" />
   </ItemGroup>
 
